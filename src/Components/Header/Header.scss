@@ -1,0 +1,16 @@
+#navbar{
+    position: relative;
+    background: #312342 !important;
+    .navbar-brand{
+        width: 10%;
+        img{
+            width: 100%;
+        }
+    }
+    .nav-link{
+        color: #fff;
+        font-size: 20px;
+        font-weight: 300;
+        padding: 0 15px;
+    }
+}
